@@ -214,8 +214,4 @@ prose:
 
 gems:
   - jekyll-paginate
----
-layout: default
-comments: true
-# other options
----
+
