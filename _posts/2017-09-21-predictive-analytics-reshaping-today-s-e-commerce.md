@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: Predictive Analytics - Reshaping today's E-Commerce
+date: '2017-08-28'
 ---
 ## Introduction
 
@@ -20,4 +21,3 @@ In this info graph, I intend to answer these questions and know how the e-commer
 ![Infographic 2](https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAcnAAAAJDc2ZDMwZWE1LTE1ZGUtNDdkNS1iMWIwLWFlY2ZhMjVhZWIzMA.png "Infographic 2")
 
 These were just some of the examples of analytics in e-commerce. Hopefully, you’ve now got a brief idea of how analytics is reshaping and transforming the online shopping experience.
-
