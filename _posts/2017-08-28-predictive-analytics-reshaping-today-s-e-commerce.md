@@ -4,7 +4,6 @@ published: true
 title: Predictive Analytics - Reshaping today's E-Commerce
 date: '2017-08-28'
 ---
-## Introduction
 From the way e-tailers offer products to the way shoppers buy or transact online, Predictive Analytics has been reshaping and transforming the e-commerce industry.
 
 E-commerce has taken the global market by a storm and is expected to grow exponentially in the upcoming years. A market research firm, eMarketer, projects e-commerce sales will eclipse $3.5 trillion within the next five years. Walmart, the world’s largest company by revenue, has planned to close hundreds of stores to refocus its efforts on its e-commerce site.
