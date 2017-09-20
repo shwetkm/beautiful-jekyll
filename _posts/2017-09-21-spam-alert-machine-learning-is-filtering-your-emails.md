@@ -28,7 +28,7 @@ Let's understand the basic idea behind spam filters.
 
 Spam filter uses Machine Learning techniques to filter an email. It looks for several features in an email, based on which it decides whether an email is a spam or a ham(term used for legit emails).
 
-**1.Where the message came from?**
+**1. Where the message came from?**
 
 Spam filter analyses the sender's address. Based on this, fraud emails can be detected. An anti-spam filter SpamAssasin tracks the network of the message source, maintains a list and looks it up in several other lists. Each time the network appears in a list, the spam score of the message is increased a little.
 
