@@ -16,4 +16,5 @@ this is block of code:
 ---
 layout: default
 comments: true
+# other options
 ---
