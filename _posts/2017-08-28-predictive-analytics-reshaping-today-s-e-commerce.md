@@ -3,6 +3,10 @@ layout: post
 published: true
 title: Predictive Analytics - Reshaping today's E-Commerce
 date: '2017-08-28'
+subtitle: >-
+  From the way e-tailers offer products to the way shoppers buy or transact
+  online, Predictive Analytics has been reshaping and transforming the
+  e-commerce industry.
 ---
 ## Introduction
 
