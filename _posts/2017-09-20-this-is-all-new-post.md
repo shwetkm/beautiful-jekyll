@@ -13,3 +13,7 @@ this is block of code:
 	x = 1
     y = 2
 ```
+---
+layout: default
+comments: true
+---
