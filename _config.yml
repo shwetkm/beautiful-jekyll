@@ -19,7 +19,7 @@ description: Data Scientist
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: "blog"
+  Archive: ""
   Projects: "projects"
   About Me: "aboutme"
 
