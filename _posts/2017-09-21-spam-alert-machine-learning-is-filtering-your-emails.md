@@ -2,7 +2,6 @@
 layout: post
 published: true
 title: Spam Alert! Machine Learning is filtering your emails.
-image: 'http://www.netrepid.com/wp-content/uploads/2013/08/no-spam.png'
 ---
 *"Congratulations, you have won a lottery worth 10 million $ !! Reply with your credit card details to avail this."*
 
