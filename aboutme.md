@@ -7,14 +7,10 @@ Data Science junkie who likes to dive deep into the data to find useful insights
 
 ### Work History
 **Data Science Researcher**
-
 **UpX Academy**
-
 Aug 2016 - Present
 
 ### Education 
 **Kamla Nehru Institute of Technology, Sultanpur**
-
 **Computer Science & Engineering**
-
 2012-2016
