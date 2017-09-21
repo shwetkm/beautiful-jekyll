@@ -2,6 +2,8 @@
 layout: post
 published: true
 title: Spam Alert! Machine Learning is filtering your emails.
+image: >-
+  https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAepAAAAJDM3YjY5NjJiLTkyZmEtNDY1OS05ZDUxLWI4NmQ3MTc0MzA2MQ.jpg
 ---
 *"Congratulations, you have won a lottery worth 10 million $ !! Reply with your credit card details to avail this."*
 
