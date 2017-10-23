@@ -10,7 +10,7 @@ I'm a Data Science junkie who likes to dive deep into data to find useful insigh
 
 ### Work History  
 **Data Scientist**<br>
-**Exzeo Software Pvt. Ltd., India**<br>
+**Exzeo Software Pvt. Ltd., Noida, India**<br>
 Oct 2017 - Present
 
 **Data Science Researcher**<br>
