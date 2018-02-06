@@ -10,5 +10,4 @@ Feature selection is one of the most important step in a Data Science project. B
 
 
 
-PCA is mainly used to reduce the dimensions of a dataset. It finds its own axes(Principal Components) based on the variance 
-
+PCA is mainly used to reduce the dimensions of a dataset. It finds its own axes(Principal Components) based on the variance
