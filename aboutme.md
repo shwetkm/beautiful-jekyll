@@ -6,10 +6,10 @@ subtitle:
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
-Data Scientist with 2+ years of experience in design and implementation of end-to-end data products.
-Well versed with Machine Learning, NLP, Deep Learning and Data Visualisation techniques.
-Have extensive experience in dealing various type of Data Science problems like Risk modelling, Cost Prediction, Image Analysis and Textual Analysis. Also, have experience in building data science production pipelines.
-Currently involved in building exciting data products in Homeowner's Insurance domain(US) for insurance underwriters, marketers, adjusters and actuaries.
+* Data Scientist with 2+ years of experience in design and implementation of end-to-end data products.
+* Well versed with Machine Learning, NLP, Deep Learning and Data Visualisation techniques.
+* Have extensive experience in dealing various type of Data Science problems like Risk modelling, Cost Prediction, Image Analysis and Textual Analysis. Also, have experience in building data science production pipelines.
+* Currently involved in building exciting data products in Homeowner's Insurance domain(US) for insurance underwriters, marketers, adjusters and actuaries.
 
 ### Work History  
 **Data Scientist**<br>
