@@ -20,5 +20,5 @@ Here's the complete code snippet:
 
 <script src="https://gist.github.com/shwetkm/6e138f6008b53ff3f19d9687086491ce.js"></script>
 
-Data can be found at my git <a href="https://github.com/shwetkm/Starbucks_India_Location_Analysis">repo</a>.
+The original location data is take from Kaggle and foot-fall data is generated randomly(dummy). Dataset used here can be found on my git <a href="https://github.com/shwetkm/Starbucks_India_Location_Analysis">repo</a>.
 
