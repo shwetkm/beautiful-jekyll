@@ -10,10 +10,14 @@ These decisions are backed by many data points. But to take those decisions fast
 
 In this analysis we can see that how a small piece of code in Python can generate such a powerful visualisation where Starbucks located in India are plotted on Map(Red marker: store with more footfall, Green markers: store with less footfall) using folium package and on the top of that we can even generate an individual graph for every data point.
 This analysis can be useful in analysing the performance of starbucks store and in deciding where to open new store.
-Visit here to see this analysis.[Zoom in, Zoom out and click on store markers to view footfalls]
+This graph is currently centered around Mumbai region. Zoom out to see for other cities in India and click on store markers to view footfalls.
 
 <iframe src = "http://www.shwetkmishra.com/starbucks_india.html" width = "100%" height = "1000">
          Sorry your browser does not support inline frames.
 </iframe>
 
+Here's the complete code snippet:
+
 <script src="https://gist.github.com/shwetkm/6e138f6008b53ff3f19d9687086491ce.js"></script>
+
+Data can be found at my git repo.
