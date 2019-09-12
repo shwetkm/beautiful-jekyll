@@ -6,8 +6,14 @@ date: '2017-11-22'
 ---
 While sipping a cup of coffee, or just passing by a Starbucks store, how many of us actually think about the role analytics played in opening that store? Probably not many of us. But Analytics does play a major role in taking those business decisions.
 
-These decisions are backed by many data points. But to take those decisions fast the representation of those data points matters a lot. So, here in this visualization we can see the Starbucks stores in India on a map and also we can see some statistical information about those stores in the same graph(those stats are dummy).
+These decisions are backed by many data points. But to take those decisions fast the representation of those data points matters a lot. 
+
+In this analysis we can see that how a small piece of code in Python can generate such a powerful visualisation where Starbucks located in India are plotted on Map(Red marker: store with more footfall, Green markers: store with less footfall) using folium package and on the top of that we can even generate an individual graph for every data point.
+This analysis can be useful in analysing the performance of starbucks store and in deciding where to open new store.
+Visit here to see this analysis.[Zoom in, Zoom out and click on store markers to view footfalls]
 
 <iframe src = "http://www.shwetkmishra.com/starbucks_india.html" width = "100%" height = "1000">
          Sorry your browser does not support inline frames.
 </iframe>
+
+<script src="https://gist.github.com/shwetkm/6e138f6008b53ff3f19d9687086491ce.js"></script>
