@@ -12,7 +12,7 @@ In this analysis we can see that how simple it is to generate such a powerful vi
 This analysis can be useful in analysing the performance of starbucks store and in deciding where to open new store.
 This graph is currently centered around Mumbai region. Zoom out to see for other cities in India and click on store markers to view footfalls.
 
-<iframe src = "http://www.shwetkmishra.com/starbucks_india.html" width = "100%" height = "1000">
+<iframe src = "http://www.shwetkmishra.com/starbucks_india.html" width = "100%" height = "700">
          Sorry your browser does not support inline frames.
 </iframe>
 
