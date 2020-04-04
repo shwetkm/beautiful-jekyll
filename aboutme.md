@@ -14,6 +14,6 @@ Currently involved in solving some really hard problems in Retail Domain by appl
 
 
 
-<object data="http://www.shwetkmishra.com/Shwet_K_Mishra.pdf" type="application/pdf">
+<object data="http://www.shwetkmishra.com/Shwet_K_Mishra.pdf" type="application/pdf" width = "100%" height = "700">
     <iframe src="https://docs.google.com/viewer?url=http://www.shwetkmishra.com/Shwet_K_Mishra.pdf&embedded=true"></iframe>
 </object>
