@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Pytorch Basics and Speed Comparisons with Numpy and GPU
 date: '2020-01-04'
 ---
