@@ -12,6 +12,8 @@ Have experience in dealing various types of Data Science problems like Risk mode
 In past, have build exciting data products in Homeowner's Insurance domain(US) for insurance underwriters, marketers, adjusters and actuaries.<br>
 Currently involved in solving some really hard problems in Retail Domain by applying latest researches in Natural Language Processing.<br>
 
-<iframe src = "http://www.shwetkmishra.com/Skm_html/skm.html" width = "100%" height = "700">
-         Sorry your browser does not support inline frames.
-</iframe>
+
+
+<object data="http://www.shwetkmishra.com/Shwet_K_Mishra.pdf" type="application/pdf">
+    <iframe src="https://docs.google.com/viewer?url=http://www.shwetkmishra.com/Shwet_K_Mishra.pdf&embedded=true"></iframe>
+</object>
