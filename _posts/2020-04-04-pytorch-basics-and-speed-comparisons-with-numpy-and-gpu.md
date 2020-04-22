@@ -9,7 +9,6 @@ date: '2020-01-04'
 
 * Initialising, slicing, reshaping tensors
 * Numpy and PyTorch interfacing
-* GPU support for PyTorch + Enabling GPUs on Google Colab
 * Speed comparisons, Numpy -- PyTorch -- PyTorch on GPU
 * Autodiff concepts and application
 * Writing a basic learning loop using autograd
@@ -632,4 +631,3 @@ for i in range(epochs):
 
 At last again some speed comparison b/w Pytorch on CPU vs GPU. On CPU it took 32.3 secs and on GPU, only 1.34 secs.
 
-References: I learnt these basics of Pytorch from https://www.guvi.in/
