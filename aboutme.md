@@ -7,10 +7,9 @@ published: true
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
-Data Scientist with experience in design and implementation of end-to-end data products.<br>
-Have experience in dealing with various types of Data Science problems like Risk modelling, Cost Prediction, Image Classification and Information Extraction. Also, have been involved in building data science production pipelines.<br>
-In the past, have build exciting data products in Homeowner's Insurance domain(US) for insurance underwriters, marketers, adjusters and actuaries.<br>
-Currently involved in solving some really hard problems in Retail Domain by applying latest researches in Natural Language Processing.<br>
+I am a Data Scientist with extensive expererience in building intelligent data products across domains like Insurance, Ed-Tech, and Retail<br>
+Currently I am working as a Data Scientist at DataWeave and solving some really challenging retail problems using Deep Learning, NLP and Computer Vision techniques.<br>
+Also, I am a part-time MS by Research student at IIIT Bangalore (Supervised by Dr. Viswanath Gopalakrishnan) where my primary research focus is around the problems at the intersection of Language and Vision like Scene Text Recognition, Visual Grounding and Visual Question-Answering.
 
 
 
