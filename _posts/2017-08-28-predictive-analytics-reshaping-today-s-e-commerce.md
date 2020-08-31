@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Predictive Analytics - Reshaping today's E-Commerce
 date: '2017-08-28'
 ---
