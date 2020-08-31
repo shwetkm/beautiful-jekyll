@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Spam Alert! Machine Learning is filtering your emails.
 ---
 *"Congratulations, you have won a lottery worth 10 million $ !! Reply with your credit card details to avail this."*
