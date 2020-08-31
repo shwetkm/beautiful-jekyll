@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Where are the Starbucks stores located in India ?
 date: '2017-11-22'
 ---
@@ -21,4 +21,3 @@ Here's the complete code snippet:
 <script src="https://gist.github.com/shwetkm/6e138f6008b53ff3f19d9687086491ce.js"></script>
 
 The original location data is taken from Kaggle and foot-fall data is a dummy data generated just for the visualization purpose. Dataset used here can be found on my git <a href="https://github.com/shwetkm/Starbucks_India_Location_Analysis">repo</a>.
-
